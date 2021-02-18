@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mercuryWorksReact/static/css/main.deaece7e.chunk.css",
-    "main.js": "/mercuryWorksReact/static/js/main.b6ff7e1e.chunk.js",
-    "main.js.map": "/mercuryWorksReact/static/js/main.b6ff7e1e.chunk.js.map",
+    "main.js": "/mercuryWorksReact/static/js/main.39b42e06.chunk.js",
+    "main.js.map": "/mercuryWorksReact/static/js/main.39b42e06.chunk.js.map",
     "runtime-main.js": "/mercuryWorksReact/static/js/runtime-main.cef06bbf.js",
     "runtime-main.js.map": "/mercuryWorksReact/static/js/runtime-main.cef06bbf.js.map",
-    "static/js/2.a8da1a65.chunk.js": "/mercuryWorksReact/static/js/2.a8da1a65.chunk.js",
-    "static/js/2.a8da1a65.chunk.js.map": "/mercuryWorksReact/static/js/2.a8da1a65.chunk.js.map",
+    "static/js/2.ea233eb1.chunk.js": "/mercuryWorksReact/static/js/2.ea233eb1.chunk.js",
+    "static/js/2.ea233eb1.chunk.js.map": "/mercuryWorksReact/static/js/2.ea233eb1.chunk.js.map",
     "static/js/3.29220902.chunk.js": "/mercuryWorksReact/static/js/3.29220902.chunk.js",
     "static/js/3.29220902.chunk.js.map": "/mercuryWorksReact/static/js/3.29220902.chunk.js.map",
     "index.html": "/mercuryWorksReact/index.html",
     "static/css/main.deaece7e.chunk.css.map": "/mercuryWorksReact/static/css/main.deaece7e.chunk.css.map",
-    "static/js/2.a8da1a65.chunk.js.LICENSE.txt": "/mercuryWorksReact/static/js/2.a8da1a65.chunk.js.LICENSE.txt"
+    "static/js/2.ea233eb1.chunk.js.LICENSE.txt": "/mercuryWorksReact/static/js/2.ea233eb1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cef06bbf.js",
-    "static/js/2.a8da1a65.chunk.js",
+    "static/js/2.ea233eb1.chunk.js",
     "static/css/main.deaece7e.chunk.css",
-    "static/js/main.b6ff7e1e.chunk.js"
+    "static/js/main.39b42e06.chunk.js"
   ]
 }
