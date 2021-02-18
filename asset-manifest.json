@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mercuryWorksReact/static/css/main.deaece7e.chunk.css",
-    "main.js": "/mercuryWorksReact/static/js/main.30e5f1a9.chunk.js",
-    "main.js.map": "/mercuryWorksReact/static/js/main.30e5f1a9.chunk.js.map",
+    "main.js": "/mercuryWorksReact/static/js/main.b6ff7e1e.chunk.js",
+    "main.js.map": "/mercuryWorksReact/static/js/main.b6ff7e1e.chunk.js.map",
     "runtime-main.js": "/mercuryWorksReact/static/js/runtime-main.cef06bbf.js",
     "runtime-main.js.map": "/mercuryWorksReact/static/js/runtime-main.cef06bbf.js.map",
     "static/js/2.a8da1a65.chunk.js": "/mercuryWorksReact/static/js/2.a8da1a65.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cef06bbf.js",
     "static/js/2.a8da1a65.chunk.js",
     "static/css/main.deaece7e.chunk.css",
-    "static/js/main.30e5f1a9.chunk.js"
+    "static/js/main.b6ff7e1e.chunk.js"
   ]
 }
