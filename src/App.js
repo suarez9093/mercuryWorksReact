@@ -18,8 +18,7 @@ function App() {
     setIsError(false);
     setIsLoading(true);
     try {
-      let url =
-        'https://thingproxy.freeboard.io/fetch/https://official-joke-api.appspot.com/jokes/random';
+      let url = 'https://official-joke-api.appspot.com/jokes/random';
       let response = await fetch(url);
       let data = await response.json();
 
