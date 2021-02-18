@@ -65,7 +65,7 @@ function App() {
             </div>
             <div className='punchline-btn-container'>
               <button onClick={showPunchline} className='punchline-btn'>
-                Show Punchline
+                {isPunchline ? <span>Hide</span> : <span>Show</span>} Punchline
               </button>
             </div>
             <div className='punchline-text-container'>
